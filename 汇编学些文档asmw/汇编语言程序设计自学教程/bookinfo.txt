@@ -1,0 +1,12 @@
+book_id=1001490_23
+book_name=汇编语言程序设计自学教程
+author=[美]Mark Goodwin
+page_number=176
+fore_cover_number=1
+preface_number=4
+content_number=4
+text_number=176
+text_start_page=1
+appendix_colorpage_number=0
+appendix_number=0
+back_cover_number=1
